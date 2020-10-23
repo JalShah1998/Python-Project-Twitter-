@@ -1,0 +1,6 @@
+import math
+
+def basic_sigmoid(x):
+    s = None
+    return s
+basic_sigmoid(10)
